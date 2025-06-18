@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Cas](https://gchaudhuri.dev/) (they/them/theirs), though you may also know me as Gautam or Quantum.
+I'm [Cas](https://gchaudhuri.dev/) (they/them/theirs), though you may also know me as Gautam.
 I'm currently a PhD candidate in Differential Geometry/Mathematical Physics studying the dynamics of vortices in the Abelian Higgs model.
 My work touches on many different aspects of geometry, but mainly focuses on Abelian gauge theories and vector bundles on Riemann surfaces.
 I also perform numerical experiments to inform my work, repositories for this are kept here.
